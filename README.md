@@ -70,7 +70,8 @@ hasil
 ![5c](https://user-images.githubusercontent.com/73062038/162210446-70628a9d-688a-4df7-9f27-e4d2509966e1.jpg)
 
 # tugas 
-layout di menu aoubot
+layout di menu aoubot:
+
     <!DOCTYPE html>
     <html lang="en">
       <head>
@@ -112,12 +113,12 @@ layout di menu aoubot
         </div>
       </body>
     </html>
-
     hasil:
     ![6](https://user-images.githubusercontent.com/73062038/162211448-4662fb96-08bb-4fcf-bbc3-1c79afe43713.jpg)
 
 
-    layout di menu kontak
+    layout di menu kontak:
+    
     <!DOCTYPE html>
     <html lang="en">
     <head>
