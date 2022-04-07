@@ -71,92 +71,92 @@ hasil
 
 # tugas 
 layout di menu aoubot
-<!DOCTYPE html>
-<html lang="en">
-  <head>
-    <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>About Me</title>
-    <link rel="stylesheet" href="style.css" />
-  </head>
-  <body>
-    <div id="container">
-      <header>
-        <h1>About Me</h1>
-      </header>
-      <nav>
-        <a href="home.html" class="active">Home</a>
-        <a href="artikel.html">Artikel</a>
-        <a href="about.html">About</a>
-        <a href="kontak.html">Kontak</a>
-      </nav>
-      <section id="about">
-        <div class="row">
-          <img
-            src="foto tgs.jpg.jpg"
-            title="m shiddiq"
-            alt="M shiddiq"
-            class="image-circle"
-            width="200"
-            style="float: left; border: 2px solid black"
-          />
-          <h1>Muhammad shiddiq fadlurrohman</h1>
-          <p>
-            Experienced Data Entry, Production Operator with Administration Skills
-            and demonstated history of working in the digital security industry.
-            Skilled in Microsoft Office, SAP, Written and Verbal Communication,
-            Time Management, Curiosity and Research Ability and Attantion to Details
-          </p>
-        </div>
-      </section>
-    </div>
-  </body>
-</html>
-
-hasil:
-![6](https://user-images.githubusercontent.com/73062038/162211448-4662fb96-08bb-4fcf-bbc3-1c79afe43713.jpg)
-
-
-layout di menu kontak
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Contact</title>
-    <link rel="stylesheet" href="style.css">
-</head>
-<body>
-    <div id="container">
-        <header>
-            <h1>Contact Me</h1>
-        </header>
-        <nav>
+    <!DOCTYPE html>
+    <html lang="en">
+      <head>
+        <meta charset="UTF-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <title>About Me</title>
+        <link rel="stylesheet" href="style.css" />
+      </head>
+      <body>
+        <div id="container">
+          <header>
+            <h1>About Me</h1>
+          </header>
+          <nav>
             <a href="home.html" class="active">Home</a>
             <a href="artikel.html">Artikel</a>
             <a href="about.html">About</a>
             <a href="kontak.html">Kontak</a>
-        </nav>
-        <section id="kontak">
-            <div class="login">
-                <input type="text" placeholder="Your Name" class="input">
-                <input type="text" placeholder="Your Email Address" class="input">
+          </nav>
+          <section id="about">
+            <div class="row">
+              <img
+                src="foto tgs.jpg.jpg"
+                title="m shiddiq"
+                alt="M shiddiq"
+                class="image-circle"
+                width="200"
+                style="float: left; border: 2px solid black"
+              />
+              <h1>Muhammad shiddiq fadlurrohman</h1>
+              <p>
+                Experienced Data Entry, Production Operator with Administration Skills
+                and demonstated history of working in the digital security industry.
+                Skilled in Microsoft Office, SAP, Written and Verbal Communication,
+                Time Management, Curiosity and Research Ability and Attantion to Details
+              </p>
             </div>
+          </section>
+        </div>
+      </body>
+    </html>
 
-            <div class="subject">
-                <input type="text" placeholder="Subject" class="input">
-            </div>
+    hasil:
+    ![6](https://user-images.githubusercontent.com/73062038/162211448-4662fb96-08bb-4fcf-bbc3-1c79afe43713.jpg)
 
-            <div class="msg">
-                <textarea cols="35" rows="10" class="area" placeholder="Your Message" class="input"></textarea>
-            </div>
 
-            <button type="submit"> Send </button>
+    layout di menu kontak
+    <!DOCTYPE html>
+    <html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Contact</title>
+        <link rel="stylesheet" href="style.css">
+    </head>
+    <body>
+        <div id="container">
+            <header>
+                <h1>Contact Me</h1>
+            </header>
+            <nav>
+                <a href="home.html" class="active">Home</a>
+                <a href="artikel.html">Artikel</a>
+                <a href="about.html">About</a>
+                <a href="kontak.html">Kontak</a>
+            </nav>
+            <section id="kontak">
+                <div class="login">
+                    <input type="text" placeholder="Your Name" class="input">
+                    <input type="text" placeholder="Your Email Address" class="input">
+                </div>
 
-        </section>
-    </div>
-</body>
-</html>
+                <div class="subject">
+                    <input type="text" placeholder="Subject" class="input">
+                </div>
+
+                <div class="msg">
+                    <textarea cols="35" rows="10" class="area" placeholder="Your Message" class="input"></textarea>
+                </div>
+
+                <button type="submit"> Send </button>
+
+            </section>
+        </div>
+    </body>
+    </html>
 
 hasil:
 ![7](https://user-images.githubusercontent.com/73062038/162212134-f0ade219-fb25-405f-ac03-26373c2aa31b.jpg)
