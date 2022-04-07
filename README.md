@@ -113,9 +113,10 @@ layout di menu aoubot:
         </div>
       </body>
     </html>
-    
-    hasil:
-    ![6](https://user-images.githubusercontent.com/73062038/162211448-4662fb96-08bb-4fcf-bbc3-1c79afe43713.jpg)
+
+hasil:![6](https://user-images.githubusercontent.com/73062038/162213386-04df8a2e-503d-4fc2-b094-784f52d7ea0c.jpg)
+
+
 
 
     layout di menu kontak:
